@@ -1,0 +1,121 @@
+StorageVerifier Proprietary Freeware License
+and Distribution Terms
+
+Copyright © 2026 猫太郎.
+Contact: 233345754@qq.com
+All rights reserved.
+
+“Licensor” means the copyright holder of StorageVerifier.
+“Software” means the proprietary StorageVerifier components covered
+by these terms. Third-party components are addressed in Section 6.
+This English text is the official license text.
+
+1. Free Use
+
+Subject to these terms, Licensor grants you a non-exclusive,
+no-charge license to copy as necessary for use, install, and run
+the Software for personal use or an organization's internal use,
+including internal business use.
+
+2. Proprietary Status
+
+The Software is proprietary freeware, not open-source software.
+Licensor retains all rights not expressly granted by these terms.
+
+No general source-code license is granted. The inclusion of
+readable files does not grant rights beyond these terms. Bundled
+third-party open-source components do not change the licensing
+status of the Software.
+
+3. Free Redistribution and Mirrors
+
+You may redistribute or mirror an exact official release package
+free of charge, subject to the distribution-cost exception in
+Section 4.
+
+An “exact official release package” means the complete original
+release archive published by Licensor, without changing its bytes.
+You must not add, remove, or alter files, modify executable, binary,
+readable, legal, or provenance contents, or repackage the archive
+and represent it as the original official package. All included
+licenses and notices must remain intact.
+
+You may retain the official filename, but the filename is not a
+condition of package identity. Package identity can be checked
+against the official SHA-256 hash.
+
+Separate download-page descriptions or accompanying web pages are
+not package modifications, provided they accurately describe the
+package and do not misrepresent its origin or official status.
+
+4. Modified Distributions and Resale
+
+These terms do not authorize redistribution of modified, patched,
+repackaged, translated, rebranded, or other derivative versions of
+the Software. Such redistribution requires separate permission
+from Licensor.
+
+You may not sell the Software itself, charge a license fee for it,
+or offer it as a paid software product, including as part of a
+bundle.
+
+Reasonable charges solely for physical media, bandwidth, mirror
+hosting, download hosting, or delivery services are permitted.
+Such charges must not be described as a StorageVerifier software
+price or license fee.
+
+5. Name and Official Status
+
+You may use the name StorageVerifier to accurately identify the
+Software in descriptions, mirror listings, and download pages.
+
+You must not impersonate the official publisher, represent a
+modified package as an official release, or falsely imply
+Licensor's endorsement.
+
+6. Third-Party Components
+
+Third-party components are governed by their own applicable
+licenses and notices, including those provided in
+THIRD_PARTY_NOTICES.txt, the licenses directory, and
+python/LICENSE.txt.
+
+These terms do not replace those licenses or restrict rights they
+independently grant, including applicable rights to use, modify,
+or redistribute third-party components.
+
+7. No Warranty
+
+To the extent permitted by applicable law, the Software is
+provided “AS IS”, without express or implied warranties, including
+warranties of merchantability, fitness for a particular purpose,
+and non-infringement.
+
+Testing results describe the data range and conditions actually
+tested. They do not guarantee future device reliability, freedom
+from defects outside the tested scope, or data recoverability.
+StorageVerifier is not a substitute for backups; maintain backups
+of important data.
+
+8. Limitation of Liability
+
+To the extent permitted by applicable law, Licensor is not liable
+for indirect, incidental, special, or consequential damages arising
+from use of or inability to use the Software, including resulting
+loss of data, profits, or business operations, even if advised of
+the possibility of such damages.
+
+9. Termination
+
+Licensor may terminate the permissions granted by these terms if
+you materially breach them. Upon termination, you must stop using
+and redistributing the Software.
+
+Termination does not terminate independent third-party licenses
+or rights protected by mandatory law.
+
+10. Mandatory Legal Rights
+
+Nothing in these terms excludes or limits rights, warranties,
+liabilities, or consumer protections that applicable law does not
+permit to be excluded or limited.
