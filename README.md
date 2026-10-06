@@ -6,11 +6,15 @@ It writes deterministic test data to a target, then reads the data back and veri
 
 ## Download
 
-Download the latest published build from the **Releases** section of this repository.
-
-Current release line:
+Current release:
 
 **StorageVerifier CLI v1 Preview**
+
+[Download StorageVerifier CLI v1 Preview for Windows x64](https://github.com/local-usr-bin/StorageVerifier/releases/download/cli-v1-preview/StorageVerifier-CLI-v1-Preview-win-x64.zip)
+
+Release details and SHA-256:
+
+[GitHub Release — StorageVerifier CLI v1 Preview](https://github.com/local-usr-bin/StorageVerifier/releases/tag/cli-v1-preview)
 
 Supported platform:
 
